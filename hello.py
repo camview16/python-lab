@@ -1,2 +1,2 @@
-printx("Hello World!!")
+print("Hello World!\nNew change!")
 
